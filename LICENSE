@@ -1,0 +1,8 @@
+
+---
+
+**`LICENSE`**
+
+For a **pre-beta version**, you want something that clearly states its current status and limits liability, while still being open if that's your intention. The MIT license is very permissive. If you want to ensure it's understood as *pre-release experimental software*, you can add a preamble or use a custom disclaimer.
+
+Here's an example using the MIT license structure with a disclaimer:
